@@ -1,0 +1,22 @@
+C:\temp\DeveloperTest\EmailSenderProgram\EmailSenderProgram\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe.config
+F:\Development\DotNet\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe.config
+F:\Development\DotNet\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe
+F:\Development\DotNet\EmailSenderProgram\bin\Debug\EmailSenderProgram.pdb
+F:\Development\DotNet\EmailSenderProgram\obj\Debug\EmailSenderProgram.csprojAssemblyReference.cache
+F:\Development\DotNet\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CoreCompileInputs.cache
+F:\Development\DotNet\EmailSenderProgram\obj\Debug\EmailSenderProgram.exe
+F:\Development\DotNet\EmailSenderProgram\obj\Debug\EmailSenderProgram.pdb
+C:\Users\USER\Desktop\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe.config
+C:\Users\USER\Desktop\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe
+C:\Users\USER\Desktop\EmailSenderProgram\bin\Debug\EmailSenderProgram.pdb
+C:\Users\USER\Desktop\EmailSenderProgram\obj\Debug\EmailSenderProgram.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EmailSenderProgram\obj\Debug\EmailSenderProgram.exe
+C:\Users\USER\Desktop\EmailSenderProgram\obj\Debug\EmailSenderProgram.pdb
+C:\Users\HTMUser\Desktop\New folder (3)\New folder\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe.config
+C:\Users\HTMUser\Desktop\New folder (3)\New folder\EmailSenderProgram\bin\Debug\EmailSenderProgram.exe
+C:\Users\HTMUser\Desktop\New folder (3)\New folder\EmailSenderProgram\bin\Debug\EmailSenderProgram.pdb
+C:\Users\HTMUser\Desktop\New folder (3)\New folder\EmailSenderProgram\obj\Debug\EmailSenderProgram.csprojAssemblyReference.cache
+C:\Users\HTMUser\Desktop\New folder (3)\New folder\EmailSenderProgram\obj\Debug\EmailSenderProgram.csproj.CoreCompileInputs.cache
+C:\Users\HTMUser\Desktop\New folder (3)\New folder\EmailSenderProgram\obj\Debug\EmailSenderProgram.exe
+C:\Users\HTMUser\Desktop\New folder (3)\New folder\EmailSenderProgram\obj\Debug\EmailSenderProgram.pdb
